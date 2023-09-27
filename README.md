@@ -1,2 +1,2 @@
 # blog_backend
-blog backend project
+Please visit the development branch for the backened project
